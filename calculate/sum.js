@@ -8,4 +8,4 @@ function calSum(a,b){
     return sum
 }
 
-module.exports={x:x,calSum:calSum}
+module.exports={x,calSum}
